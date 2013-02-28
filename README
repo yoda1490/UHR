@@ -1,0 +1,16 @@
+UHR
+
+
+[Description]
+	Universal Hotspot reconnector is a simple JAVA programme that can easily automatically reconnect you to any captive portal
+	You just need to specify Username/Password and others specifique parameters
+
+[Requirements]
+
+	Java environment (JRE+JDK)
+
+[Compile]
+	javac src/UHR/*.java -cp "lib/swing-layout-1.0.2.jar"
+
+[Run]
+	java -jar "/Users/WaWa-YoDa/NetBeansProjects/WiFiReconnector/dist/WiFiReconnector.jar"
