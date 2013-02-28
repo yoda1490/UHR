@@ -14,3 +14,8 @@ UHR
 
 [Run]
 	java -jar "/Users/WaWa-YoDa/NetBeansProjects/WiFiReconnector/dist/WiFiReconnector.jar"
+
+[TODO]
+	Preconfiguration (Freewifi,Bouygues,Oranges,FON,...)
+	Auto analyse parameters for unknown hotspot
+	Auto detect hotspot
